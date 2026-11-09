@@ -30,6 +30,15 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 - Sins fidelity summaries:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/fidelity/SINS_FIDELITY_SUMMARIES.md
 
+- Sins kit and mechanics:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/mechanics/SINS_KIT_AND_MECHANICS.md
+
+- Sins relationships:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/relationships/SINS_RELATIONSHIPS.md
+
+- Active outline summary:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/outline/ACTIVE_OUTLINE_SUMMARY.md
+
 - AI Operating System (from Notion):  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/notion/AI_OPERATING_SYSTEM.md
 
@@ -52,7 +61,7 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/CURRENT.json
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/DELIVERY_LEDGER.json
-- Active outline: https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/SEASON3_ACTIVE_OUTLINE.json
+- Full active outline (large): https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/SEASON3_ACTIVE_OUTLINE.json
 
 ## 4. Full organized project
 
