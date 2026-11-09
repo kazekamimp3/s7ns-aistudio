@@ -1,53 +1,68 @@
 # S7NS for AI Studio
 
-**Solely dedicated repository** so AI Studio (limited to raw links) can read the entirety of the S7NS project.
+**Solely dedicated repository** so AI Studio (limited to raw links) can efficiently retrieve the full S7NS project.
 
-The full source lives in the main repository:
+## Canonical organized project (primary)
+
+**https://github.com/kazekamimp3/kaze808**
+
+This is the living, organized repository with continuity, capability routing, character owners, author decisions, research, and AI Studio-specific entry points.
+
+### One-and-done start (paste this first)
+
+```
+https://raw.githubusercontent.com/kazekamimp3/kaze808/main/AI_STUDIO_START_HERE.md
+```
+
+That file is the proper front door. It explains capability-routed retrieval so AI Studio only loads what it needs instead of everything at once.
+
+### Other key kaze808 entry points
+
+- System prompt (copy into AI Studio instructions if useful):  
+  https://raw.githubusercontent.com/kazekamimp3/kaze808/main/AI_STUDIO_SYSTEM_PROMPT.txt
+
+- KAZE_READ_FIRST (newest author directions):  
+  https://raw.githubusercontent.com/kazekamimp3/kaze808/main/KAZE_READ_FIRST.txt
+
+- Capability router:  
+  https://raw.githubusercontent.com/kazekamimp3/kaze808/main/routing/CAPABILITY_ROUTER.yaml
+
+- Live state (verify before any PLAY):  
+  https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/CURRENT.json
+
+- Delivery ledger:  
+  https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/DELIVERY_LEDGER.json
+
+## Source archive (secondary / original bundles)
 
 **https://github.com/kazekamimp3/s7ns**
 
-This repo provides clean entry points and complete lists of raw.githubusercontent.com URLs.
+Contains the original large source bundles, historical variants, and some handoff docs. Use only when the organized repo explicitly routes you there or you need an original owner snapshot.
 
-## Start here (paste these into AI Studio)
+- Archive source index:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns/main/S7NS_SOURCE_INDEX.md
 
-### Primary entry points
-1. **Start Here (recommended first read):**  
-   https://raw.githubusercontent.com/kazekamimp3/s7ns/main/AI_STUDIO_START_HERE.md
+- Archive start guide:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns/main/AI_STUDIO_START_HERE.md
 
-2. **Source Access Guide:**  
-   https://raw.githubusercontent.com/kazekamimp3/s7ns/main/AI_STUDIO_SOURCE_ACCESS.md
-
-3. **Complete Source Index (all files + hashes):**  
-   https://raw.githubusercontent.com/kazekamimp3/s7ns/main/S7NS_SOURCE_INDEX.md
-
-4. **Character Fidelity Handoff:**  
-   https://raw.githubusercontent.com/kazekamimp3/s7ns/main/docs/CHARACTER_FIDELITY_HANDOFFS_20261102.md
-
-5. **Space Saga Restart Handoff:**  
-   https://raw.githubusercontent.com/kazekamimp3/s7ns/main/docs/S7NS_SPACE_SAGA_AUTHORITATIVE_RESTART_HANDOFF_20261102.md
-
-6. **Machine-readable manifest:**  
-   https://raw.githubusercontent.com/kazekamimp3/s7ns/main/SOURCE_MANIFEST.json
+- Full raw link list for the archive (see ALL_RAW_LINKS.md in this repo)
 
 ## How to use with AI Studio
 
-1. Paste one or more of the raw URLs above into AI Studio (URL context / file input).
-2. Prefer the Start Here and Source Index first so the model knows the authority structure.
-3. Then feed specific character owners, current state, or season files as needed.
-4. If raw.githubusercontent.com is blocked, use the equivalent `https://github.com/kazekamimp3/s7ns/blob/main/<path>` page.
-5. Read complete files. Large files may need to be requested in sections if truncated.
-
-## Full file list
-
-See **ALL_RAW_LINKS.md** in this repository for every source file’s raw URL.
+1. Paste the kaze808 Start Here raw URL first.
+2. Follow its routing instructions. Do not load every large bundle by default.
+3. Pull specific files only when the router or live state points to them.
+4. If raw.githubusercontent.com is blocked, use the equivalent `github.com/.../blob/main/...` page.
+5. Treat `kaze808` as live authority. Treat `s7ns` as source archive / provenance.
 
 ## Notes
 
-- Original filenames and revision variants are preserved.
-- Do not treat historical archives as live current-state authority.
-- Character locks (Mana pronouns, roster membership, Brian status, etc.) are defined in the Start Here and character owners.
-- This repo exists only to make AI Studio access reliable and convenient.
+- Latest direct author instruction controls its scope.
+- Keep PROPOSED / AUTHOR_SELECTED / PREPARED / DELIVERED_PROVISIONAL / AUTHOR_ACCEPTED distinct.
+- WORK advances zero fictional time. PLAY requires explicit authorization.
+- This repo exists only to give AI Studio clean, non-complicated raw-link entry points.
 
 ---
 
-Generated for AI Studio raw-link access. Source of truth remains https://github.com/kazekamimp3/s7ns
+Primary source of truth: https://github.com/kazekamimp3/kaze808  
+Source archive: https://github.com/kazekamimp3/s7ns
