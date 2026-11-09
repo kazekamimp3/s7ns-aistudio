@@ -2,7 +2,7 @@
 
 Paste this single raw URL into AI Studio. Everything required to start and retrieve the full project is in this file.
 
-## 1. Immediate instructions (read this)
+## 1. Immediate instructions
 
 You are working on Kaze’s S7NS project.
 
@@ -19,57 +19,33 @@ PROPOSED, AUTHOR_SELECTED, PREPARED, DELIVERED_PROVISIONAL, AUTHOR_ACCEPTED, INS
 
 WORK advances zero fictional time. PLAY requires explicit authorization.
 
-## 2. Core files already transferred into this repo (read these next)
+## 2. Clean readable core files (use these first)
 
-- Start Here (full front door):  
+- Author directions (clean):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AUTHOR_DIRECTIONS.txt
+
+- Space arc summary (clean):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/SPACE_ARC_SUMMARY.md
+
+- Start Here:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AI_STUDIO_START_HERE.md
-
-- Newest author directions:  
-  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/KAZE_READ_FIRST.txt
 
 - Capability router:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/routing/CAPABILITY_ROUTER.yaml
 
-- System prompt:  
-  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AI_STUDIO_SYSTEM_PROMPT.txt
-
 - Restart handoff:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/handoffs/S7NS_RESTART_HANDOFF_20261031.md
-
-- Space arc handoff (E82–E100):  
-  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/handoffs/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md
 
 ## 3. Live state (canonical — check before any PLAY)
 
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/CURRENT.json
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/DELIVERY_LEDGER.json
-- Active outline (large): https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/SEASON3_ACTIVE_OUTLINE.json
+- Active outline: https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/SEASON3_ACTIVE_OUTLINE.json
 
-## 4. Full organized project (primary source of truth)
+## 4. Full organized project
 
 https://github.com/kazekamimp3/kaze808
 
-Key routing / index files:
-- https://raw.githubusercontent.com/kazekamimp3/kaze808/main/routing/LOGICAL_PHYSICAL_SOURCE_MAP.json
-- https://raw.githubusercontent.com/kazekamimp3/kaze808/main/routing/MASTER_SOURCE_INDEX.json
-- https://raw.githubusercontent.com/kazekamimp3/kaze808/main/complete_sources/ACCESS_INDEX.json
-- https://raw.githubusercontent.com/kazekamimp3/kaze808/main/MANIFEST.yaml
+Do not load every large bundle by default. Route first, then open the exact complete owner needed.
 
-## 5. Source archive (original bundles — use only when routed)
-
-https://github.com/kazekamimp3/s7ns
-
-Complete raw list of archive files:  
-https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/ALL_RAW_LINKS.md
-
-## 6. Quick capability triggers
-
-- Current episode / status → continuity/CURRENT.json + DELIVERY_LEDGER.json
-- Character voice / fidelity → route via LOGICAL_PHYSICAL_SOURCE_MAP + complete owner
-- Mechanics / kit / BELLY → Current_Roster_Kit_Overrides + matching character owner + checkpoint
-- Write episode / PLAY → Scene Decision Doctrine + live state + full relevant owners
-- Author intent → KAZE_READ_FIRST + latest matching author file
-
-Do not load every 1–3 MB numbered bundle by default. Route first, then open the exact complete owner needed.
-
-Start with the links in section 2.
+Start with the clean files in section 2.
