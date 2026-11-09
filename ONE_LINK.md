@@ -27,6 +27,9 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 - Space arc summary:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/SPACE_ARC_SUMMARY.md
 
+- Sins fidelity summaries:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/fidelity/SINS_FIDELITY_SUMMARIES.md
+
 - AI Operating System (from Notion):  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/notion/AI_OPERATING_SYSTEM.md
 
