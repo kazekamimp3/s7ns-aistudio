@@ -21,11 +21,20 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 
 ## 2. Clean readable core files (use these first)
 
-- Author directions (clean):  
+- Author directions:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AUTHOR_DIRECTIONS.txt
 
-- Space arc summary (clean):  
+- Space arc summary:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/SPACE_ARC_SUMMARY.md
+
+- AI Operating System (from Notion):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/notion/AI_OPERATING_SYSTEM.md
+
+- Retrieval handoff (from Notion):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/notion/AI_STUDIO_RETRIEVAL_HANDOFF.md
+
+- Encyclopedia index (from Notion):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/notion/ENCYCLOPEDIA_INDEX.md
 
 - Start Here:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AI_STUDIO_START_HERE.md
