@@ -1,8 +1,14 @@
-# Complete Raw URLs for S7NS Sources
+# Raw URLs — S7NS Source Archive (secondary)
 
-Paste any of these into AI Studio. All point to the main repo: https://github.com/kazekamimp3/s7ns
+**Primary organized project is kaze808.**  
+Start here instead: https://raw.githubusercontent.com/kazekamimp3/kaze808/main/AI_STUDIO_START_HERE.md
 
-## Navigation / Entry Points
+This file lists raw links for the original source bundles in the archive repo:  
+https://github.com/kazekamimp3/s7ns
+
+Use these only when the organized repo routes you here or you specifically need an original owner snapshot / historical variant.
+
+## Navigation / Entry Points (archive)
 
 - https://raw.githubusercontent.com/kazekamimp3/s7ns/main/AI_STUDIO_START_HERE.md
 - https://raw.githubusercontent.com/kazekamimp3/s7ns/main/AI_STUDIO_SOURCE_ACCESS.md
@@ -71,10 +77,7 @@ Paste any of these into AI Studio. All point to the main repo: https://github.co
 - https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/06_manifests/MANIFEST.yaml
 - https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/06_manifests/MANIFEST_SPACE_20261024.yaml
 
-## Other
-
-- https://raw.githubusercontent.com/kazekamimp3/s7ns/main/README.md
-
 ---
 
-Copy the raw links you need and paste them into AI Studio. Start with the navigation files for best results.
+Primary: https://github.com/kazekamimp3/kaze808  
+Start: https://raw.githubusercontent.com/kazekamimp3/kaze808/main/AI_STUDIO_START_HERE.md
