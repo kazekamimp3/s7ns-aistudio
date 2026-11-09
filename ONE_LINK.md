@@ -33,8 +33,11 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 - System prompt:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AI_STUDIO_SYSTEM_PROMPT.txt
 
-- Restart handoff (now local raw):  
+- Restart handoff:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/handoffs/S7NS_RESTART_HANDOFF_20261031.md
+
+- Space arc handoff (E82–E100):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/handoffs/S7NS_SPACE_ARC_E82_E100_AI_STUDIO_HANDOFF_20261027.md
 
 ## 3. Live state (canonical — check before any PLAY)
 
@@ -59,23 +62,7 @@ https://github.com/kazekamimp3/s7ns
 Complete raw list of archive files:  
 https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/ALL_RAW_LINKS.md
 
-## 6. Notion (production index, AI OS, handoffs, episode backups)
-
-Notion pages are often blocked. Prefer the raw GitHub copies above when available. Original Notion links for reference:
-
-- S7NS Encyclopedia and Production Index:  
-  https://www.notion.so/3fd4e1b729b38146b48cc3f823ebddd0
-
-- S7NS AI Operating System v1.1:  
-  https://www.notion.so/40a4e1b729b381df8341c6b643101ce0
-
-- S7NS RESTART — AUTHORITATIVE HANDOFF (2026-10-31):  
-  https://www.notion.so/40a4e1b729b381dc9855f7a6930bd53f
-
-- S7NS Space Saga Continuity Audit — 2026-10-31:  
-  https://www.notion.so/40b4e1b729b381dcbac3dae0325014ef
-
-## 7. Quick capability triggers
+## 6. Quick capability triggers
 
 - Current episode / status → continuity/CURRENT.json + DELIVERY_LEDGER.json
 - Character voice / fidelity → route via LOGICAL_PHYSICAL_SOURCE_MAP + complete owner
