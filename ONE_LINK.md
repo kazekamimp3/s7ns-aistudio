@@ -33,11 +33,20 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 - Sins kit and mechanics:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/mechanics/SINS_KIT_AND_MECHANICS.md
 
+- Sins psychology notes:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/psychology/SINS_PSYCHOLOGY_NOTES.md
+
 - Sins relationships:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/relationships/SINS_RELATIONSHIPS.md
 
 - Active outline summary:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/outline/ACTIVE_OUTLINE_SUMMARY.md
+
+- Scene Decision Doctrine summary:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/doctrine/SCENE_DECISION_DOCTRINE_SUMMARY.md
+
+- Manuscript and state pointers:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/pointers/MANUSCRIPT_AND_STATE_POINTERS.md
 
 - AI Operating System (from Notion):  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/notion/AI_OPERATING_SYSTEM.md
