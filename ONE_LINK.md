@@ -27,6 +27,9 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 - Space arc summary:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/SPACE_ARC_SUMMARY.md
 
+- Detailed Sins notes (high-priority gaps):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/fidelity/DETAILED_SINS_NOTES.md
+
 - Sins fidelity summaries:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/fidelity/SINS_FIDELITY_SUMMARIES.md
 
