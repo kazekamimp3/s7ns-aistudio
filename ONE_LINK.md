@@ -33,10 +33,14 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 - System prompt:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AI_STUDIO_SYSTEM_PROMPT.txt
 
+- Restart handoff (now local raw):  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/handoffs/S7NS_RESTART_HANDOFF_20261031.md
+
 ## 3. Live state (canonical — check before any PLAY)
 
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/CURRENT.json
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/DELIVERY_LEDGER.json
+- Active outline (large): https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/SEASON3_ACTIVE_OUTLINE.json
 
 ## 4. Full organized project (primary source of truth)
 
@@ -57,17 +61,13 @@ https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/ALL_RAW_LINKS.m
 
 ## 6. Notion (production index, AI OS, handoffs, episode backups)
 
+Notion pages are often blocked. Prefer the raw GitHub copies above when available. Original Notion links for reference:
+
 - S7NS Encyclopedia and Production Index:  
   https://www.notion.so/3fd4e1b729b38146b48cc3f823ebddd0
 
 - S7NS AI Operating System v1.1:  
   https://www.notion.so/40a4e1b729b381df8341c6b643101ce0
-
-- S7NS AI Operating System | Seven Modes:  
-  https://www.notion.so/40a4e1b729b381cfbdadc899b2fe0f3d
-
-- S7NS AI Studio Retrieval Handoff — 2026-11-01:  
-  https://www.notion.so/40c4e1b729b38160a3b5d576bb25cc8a
 
 - S7NS RESTART — AUTHORITATIVE HANDOFF (2026-10-31):  
   https://www.notion.so/40a4e1b729b381dc9855f7a6930bd53f
@@ -75,14 +75,7 @@ https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/ALL_RAW_LINKS.m
 - S7NS Space Saga Continuity Audit — 2026-10-31:  
   https://www.notion.so/40b4e1b729b381dcbac3dae0325014ef
 
-- S7NS Space Saga — Consolidated AI Handoff (2026-10-29):  
-  https://www.notion.so/4094e1b729b381029892ed56b0d13451
-
-## 7. Google Drive (episode checkpoints and recovery docs)
-
-Search Drive for "S7NS" or open recent S7NS documents. Key examples include Post-E50 continuity recovery, episode paired checkpoints, cumulative replacement patches, and ensemble audits. Prefer GitHub live state over older Drive snapshots when they conflict.
-
-## 8. Quick capability triggers
+## 7. Quick capability triggers
 
 - Current episode / status → continuity/CURRENT.json + DELIVERY_LEDGER.json
 - Character voice / fidelity → route via LOGICAL_PHYSICAL_SOURCE_MAP + complete owner
@@ -92,4 +85,4 @@ Search Drive for "S7NS" or open recent S7NS documents. Key examples include Post
 
 Do not load every 1–3 MB numbered bundle by default. Route first, then open the exact complete owner needed.
 
-That is the full simple entry system. Start with the links in section 2, then use Notion/Drive links when you need production indexes, operating system instructions, or episode backups.
+Start with the links in section 2.
