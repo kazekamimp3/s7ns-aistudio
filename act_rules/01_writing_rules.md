@@ -67,3 +67,5 @@ Never quote real song lyrics. Songs may be named in writer notes only; performed
 - Daynah: "That's not gonna hurt me." / "WHAT THE FUCK WAS THAT!?" · Clifford: "I CAN'T BREATH IN THIS THING" · Meatwad: "how far are you into the game?"
 - Any Bee Moo rap: Kaze's words only. If the outline says BEE MOO BARS: KAZE IS WRITING THESE and no bars are supplied, don't write bars; cut around them.
 - Names: Doctor Evil, Daynah, Mahnah, K.K.; DAYNAH in Dana's own gamma lines; Big Ass Nigga Saurus (hat); BONELESS LASAGNA.
+
+- **Acts 23-30 denial (Kaze, 2026-11-10):** Wade totally denies he had any part in Acts 23-30 (the AI-slop acts). He blames anyone else with a fresh excuse each time, at most once per act and only when relevant. It's a fourth-wall denial, not a canon change. Full rule in `01b_SYSTEM_INSTRUCTIONS.txt` section 10c.
