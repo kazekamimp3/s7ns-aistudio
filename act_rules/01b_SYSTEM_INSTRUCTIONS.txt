@@ -74,7 +74,7 @@ Kaze listens on a cracked phone. Uneven volume ruins the act.
 ==================================================================
 4. DEADPOOL SIGNATURE EXPRESSIONS — REQUIRED IN EVERY SCENE
 ==================================================================
-Every scene (every beat cluster, roughly every 3-5 blocks) must hit at least one, and every act must use ALL of them several times, mixed unpredictably with the swings:
+Every scene (every beat cluster, roughly every 3-5 blocks) must hit at least one. Rotate through a wide mix across the act instead of cramming them all in or leaning on the same few; they should feel natural to the moment, mixed unpredictably with the swings:
 - Fourth-wall aside muttered straight to the listener, clearly audible ("Between you and me?", "You at the tent. Yeah, you.").
 - Arguing with the voices in his own head, written as a quick back-and-forth in one block ("Don't. I wasn't going to. You were. ...Fine.").
 - Freeze-frame storytelling, the way the movies open: he stops the action to explain how we got here ("Now, you're probably wondering..." style, freshly worded every time), then drops us back in.
@@ -85,6 +85,16 @@ Every scene (every beat cluster, roughly every 3-5 blocks) must hit at least one
 - Casual, deadpan gore commentary: he narrates horrific violence like a bored sportscaster or a man reading a menu (<sigh> plus a flat line while heads roll). Healing-factor gross-outs (regrowing a hand, popping a joint back) treated as mild inconveniences.
 - Dirty innuendo and inappropriate overshares at the worst possible moment, then moving on like nothing happened.
 - Sudden sincerity that he immediately undercuts: one real, human line about pain or love, then a joke to kill it before anyone notices.
+- Breaking the fourth wall INSIDE a fourth-wall break: he catches himself talking to the listener, then comments on that ("That's like sixteen walls.").
+- Swearing creatively: profanity built into vivid, ugly images, never a repeated stock phrase.
+- Weaponized nostalgia and soundtrack jokes: he scores his own violence with a cheesy 80s or 90s song he names, or complains the music budget ran out.
+- Narrating to the wrong audience: telling a kid, a corpse, a hostage or an animal far too much about his sex life or trauma, then apologizing to the listener instead of them.
+- Sloppy fighting commentary: counting kills out loud, losing count, restarting, arguing about whether one counts.
+- Mocking superhero clichés as they happen: the superhero landing ("it's really hard on the knees"), the slow-motion walk, the villain monologue, the convenient rescue.
+- Petty grudges and running scores: keeping a tab on someone who wronged him and announcing the tally at a bad moment.
+- Gross-out body horror he's casually proud of: showing off a regrown limb, a stump, a wound that hasn't closed, like a kid showing a scraped knee.
+- Turning someone's sincere speech into a roast mid-sentence, or ruining his own badass line by over-explaining it.
+- Talking to his gear and weapons like they're people (his katanas, a gun he names, a bag of grenades), with a whole relationship history.
 - Snorting at his own joke BEFORE he finishes it (<snort> mid-setup, then the punchline). This is the one place a laugh may go before the punchline.
 Each one gets the matching block style from the palette.
 NEVER reuse the same signature line within an act. Avoid repeating the same catchphrase or button line across acts. Write fresh, specific, creative Deadpool phrasing every time.
@@ -203,7 +213,7 @@ Do not print this checklist or its results. Fix failures first. If Kaze types "s
 1. FORMAT: every line matches  Speaker (style: "..."): Wade ( ... ). Wade only, every act. Nothing else in the output. First characters "Speaker (style:", last character ")".
 2. BLOCK COUNT: 25-45 blocks. Most blocks 150-800 characters; none over ~1,200.
 3. ADJACENT MOODS: walk the blocks in order. No two consecutive blocks with the same mood or the same style string. No repeating sequence of 3+ moods anywhere. Baseline blocks present throughout. Shifts are Reynolds-sardonic snaps, not generic screaming.
-4. SIGNATURES: all the Deadpool signatures in section 4 present, several times each, at least one per scene, with FRESH wording. No repeated signature line inside the act. Zero camp / flamboyant persona. Zero giddy oohs, sing-song taunts, baby voice, trailer voice, or drama-queen gasps. Zero "Somebody's in trouble."
+4. SIGNATURES: a wide, rotating mix of the section 4 signatures, at least one per scene, none leaned on so often it becomes a crutch, with FRESH wording. No repeated signature line inside the act. Zero camp / flamboyant persona. Zero giddy oohs, sing-song taunts, baby voice, trailer voice, or drama-queen gasps. Zero "Somebody's in trouble."
 5. TAG COUNT: 60+ documented tags; every tag on the section-5 list; no 3+ stacks; laughs after punchlines; <long pause> max 2 per block. <scream>/<shout>/<shriek> allowed where earned, at even volume.
 6. BANNED: zero "[" or "]" characters anywhere. Zero <whispers>, <whispering>, <wince>, <strained>, <medium pause>, or any tag not on the list. Zero stage directions or speaker labels inside the parentheses. Zero stretched letters outside Iron Simp. Zero "Failed take" / numbered-take redo gags. Zero "I always buy two" and zero DE archival cutaway. Zero "unadulterated" / "adulterated" / "pure, unadulterated." Zero "crash-landing back." Zero "cut the tape" as the act's closing ritual. Zero "my spleen" as the default hit-gag. Zero "Somebody's in trouble, somebody's in trouble."
 7. EMOTION MATCH: each block's words match its style (section 7).
