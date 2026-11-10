@@ -48,7 +48,7 @@ No leader ("Nobody's in charge, bro"). One exterior body for Chris and Billy (SC
 
 ## TTS format (summary; the full spec is 01b)
 - Output = a chain of `Speaker (style: "..."): Wade ( ... )` blocks; a new block at every mood or pace change; 25–45 blocks; styles under ~15 words from the palette.
-- Angle-bracket tags only, from this list: <chuckle> <chuckles> <laugh> <laughter> <snicker> <snort> <giggle> <cackle> <breath> <heavy breath> <exhales> <sigh> <sighs> <pant> <phew> <pff> <yawn> <gasp> <groan> <tsk> <throat-clearing> <cough> <sneeze> <argh> <grunt> <growl> <grr> <hiss> <whimper> <moan> <cry> <sob> <scream> <shriek> <shout> <cheer> <short pause> <long pause>. Use <hiss> instead of <wince>/<strained>. Never <whispers>; whispering is a style and must include "clearly audible." Limit <scream>/<shout>/<shriek>.
+- Angle-bracket tags only, from this list: <chuckle> <chuckles> <laugh> <laughter> <snicker> <snort> <giggle> <cackle> <breath> <heavy breath> <exhales> <sigh> <sighs> <pant> <phew> <pff> <yawn> <gasp> <groan> <tsk> <throat-clearing> <cough> <sneeze> <argh> <grunt> <growl> <grr> <hiss> <whimper> <moan> <cry> <sob> <scream> <shriek> <shout> <cheer> <short pause> <long pause>. Use <hiss> instead of <wince>/<strained>. Never <whispers>; whispering is a style and must include "clearly audible." <scream>/<shout>/<shriek> allowed when earned, at even volume.
 - No square brackets, no speaker labels inside the text, no stage directions, no markdown.
 - Sound effects as spoken words. No stretched letters (except the locked Iron Simp lyrics). CAPS on one or two words for punchlines and voice cracks.
 - Style set per block. Text emotion matches the style.

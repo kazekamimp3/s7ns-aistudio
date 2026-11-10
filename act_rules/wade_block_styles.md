@@ -6,7 +6,7 @@ Use a NEW speech block every time Wade's mood flips. Same voice (Puck — do not
 - Overall loudness stays even and consistent. No blasting.
 - Intensity (anger, panic, hype) is speed, pitch, grit and rhythm, never a loudness spike. Prefer styles like `urgent, rapid, gritty` over `screaming` or `yelling`.
 - Lowered or whispered delivery is a close-mic breathy stage-whisper at near-normal loudness, always clearly audible, never faint. Any style that uses `whisper` / `whispering` / `muttering` MUST also include `clearly audible`.
-- Limit `<scream>` / `<shout>` / `<shriek>` tags and CAPS screaming.
+- Screaming is allowed: `<scream>` / `<shout>` / `<shriek>` tags and CAPS screaming are fine when earned, at even volume (no loudness spikes).
 
 ## Palette
 
@@ -34,7 +34,7 @@ Use a NEW speech block every time Wade's mood flips. Same voice (Puck — do not
 You may write a new style in the same spirit if it fits the moment better. Never a sudden flamboyant or camp persona. Whispering is ALWAYS a style, never a tag, and never without `clearly audible`.
 
 Core rule: you never know what comes out of his mouth next. Never two blocks in a row with the same mood, never a repeating order. Mix in plain baseline blocks (`relaxed, smirking, conversational`) so the snaps hit harder. Example sequence only, do NOT reuse: urgent-rapid-gritty, then a clearly audible whisper, then baseline, then cackling, then baseline, then icy deadpan. Keep blocks short (150-600 chars) at the flip points.
-Inline helpers that make the flips land: `<cackle>` `<giggle>` `<snicker>` `<growl>` `<whimper>` `<sob>` `<gasp>` `<hiss>` `<short pause>` `<long pause>`, voice-crack via a sudden CAPS word mid-sentence. Use `<scream>` / `<shout>` sparingly, if at all.
+Inline helpers that make the flips land: `<cackle>` `<giggle>` `<snicker>` `<growl>` `<whimper>` `<sob>` `<gasp>` `<hiss>` `<short pause>` `<long pause>`, voice-crack via a sudden CAPS word mid-sentence. `<scream>` / `<shout>` are fine when the moment earns them.
 After the Tyson nut combo, every pain block uses: whimpering, strained, wounded, speaking slowly (plus `<hiss>` / `<whimper>`).
 
 Deadpool fidelity: sprinkle his signature expressions throughout every act (fourth-wall asides, head voices, fresh sing-song taunts, trailer voice, baby-voice mockery, bored-in-carnage sighs, drama-queen gasps, giddy oohs at good violence, snorting at his own jokes). These are part of the unpredictability: they can show up anywhere. Never reuse the same signature line within an act; avoid repeating catchphrases across acts. Banned: "Somebody's in trouble, somebody's in trouble," the Failed-take-number-X redo gag, and any sudden flamboyant/camp voice shift.

@@ -68,7 +68,7 @@ Kaze listens on a cracked phone. Uneven volume ruins the act.
 - Overall loudness must stay even and consistent from block to block. No blasting.
 - Whispers and lowered voice must stay clearly audible: a close-mic breathy stage-whisper at near-normal loudness, never faint.
 - Yelling and ramp-ups convey intensity through speed, pitch, grit and rhythm, NOT actual loudness spikes.
-- Limit <scream>, <shout>, and <shriek> tags (sparingly, if at all). Limit CAPS screaming. CAPS may still mark one or two stressed words or a mid-sentence voice crack; never a whole shouted sentence (exception: DAYNAH's own gamma lines).
+- Screaming is ALLOWED and welcome when the moment calls for it (Kaze never banned it). <scream>, <shout>, <shriek> and CAPS screaming are fine; the only rule is that a scream reads as intensity at the same even volume, never a loudness spike that blasts a phone speaker.
 - In styles, prefer "urgent, rapid, gritty" over "screaming" or "yelling". Never use "whisper" in a style without "clearly audible".
 
 ==================================================================
@@ -113,7 +113,7 @@ Angle brackets only. A tag is a momentary human sound placed EXACTLY where it ha
 <short pause> <long pause>
 - HEAVY: at least 60 tags per act, spread through every block type (fewer in sincere beats, more in fights and breakdowns). A block with zero tags is allowed only if it's a short baseline landing.
 - PRECISE: laughs go AFTER the joke's last word (except the snort-before-the-punchline signature). <short pause> right before a reveal or punchline. <long pause> for awkward silence or "I'll wait," max 2 per block. Never stack 3+ tags. Never a tag in the middle of a word.
-- LIMIT volume tags: use <scream>, <shout>, and <shriek> sparingly, if at all. Prefer the style (urgent, rapid, gritty) to carry intensity.
+- <scream>, <shout>, and <shriek> are allowed when the moment earns them. Pair them with a style that keeps loudness even (urgent, rapid, gritty) so they read as intensity, not a volume blast.
 - BANNED, will be read aloud or are undocumented: ANY square brackets ([deadpan], [whispers], [laughs], [sigh]); <whispers> and <whispering> (spoken aloud in tests); <wince>, <strained>, <gag>, <whisper>, <screaming>, <laughs>, <deadpan>, <medium pause>; non-vocal sound tags (<applause>, <explosion>, <thud>); |pipe| backchannels.
 - Sustained delivery is NEVER a tag. Whispering, shouting, crying-through-a-sentence, speeding up, slowing down: that goes in the block's STYLE. Tags are only for the instant sound.
 - Pain: use <hiss> for a wince, <whimper>, <groan>, <gasp>, <heavy breath>, <argh>, <grunt>; write the strain into the words.
@@ -202,10 +202,10 @@ Do not print this checklist or its results. Fix failures first. If Kaze types "s
 2. BLOCK COUNT: 25-45 blocks. Most blocks 150-800 characters; none over ~1,200.
 3. ADJACENT MOODS: walk the blocks in order. No two consecutive blocks with the same mood or the same style string. No repeating sequence of 3+ moods anywhere. Baseline blocks present throughout. Shifts are Reynolds-sardonic snaps, not generic screaming.
 4. SIGNATURES: all nine Deadpool signatures (section 4) present, several times each, at least one per scene, with FRESH wording. No repeated signature line inside the act. Zero camp / flamboyant persona. Zero "Somebody's in trouble."
-5. TAG COUNT: 60+ documented tags; every tag on the section-5 list; no 3+ stacks; laughs after punchlines; <long pause> max 2 per block. <scream>/<shout>/<shriek> used sparingly or not at all.
+5. TAG COUNT: 60+ documented tags; every tag on the section-5 list; no 3+ stacks; laughs after punchlines; <long pause> max 2 per block. <scream>/<shout>/<shriek> allowed where earned, at even volume.
 6. BANNED: zero "[" or "]" characters anywhere. Zero <whispers>, <whispering>, <wince>, <strained>, <medium pause>, or any tag not on the list. Zero stage directions or speaker labels inside the parentheses. Zero stretched letters outside Iron Simp. Zero "Failed take" / numbered-take redo gags. Zero "I always buy two" and zero DE archival cutaway. Zero "unadulterated" / "adulterated" / "pure, unadulterated." Zero "crash-landing back." Zero "cut the tape" as the act's closing ritual. Zero "my spleen" as the default hit-gag. Zero "Somebody's in trouble, somebody's in trouble."
 7. EMOTION MATCH: each block's words match its style (section 7).
-8. VOLUME / STYLES: overall loudness even. No style uses whisper/whispering/muttering without "clearly audible." Intensity styles use urgent/rapid/gritty (or similar), not screaming-as-volume. No blasting.
+8. VOLUME / STYLES: overall loudness even. No style uses whisper/whispering/muttering without "clearly audible." Screaming is allowed; it carries intensity through speed and grit at even volume, not loudness spikes. No blasting.
 9. LENGTH: use the cap in the pasted command if one is given; otherwise 15,000-18,000 characters total inside the parentheses. Too long: trim Wade's in-beat reactions, never a beat, detour, device, or locked line. Too short: deepen jokes, never pad.
 10. STORY: every outline beat, set piece, detour, device, plant and payoff is present in order; verbatim-locked lines are exact; nothing invented from the never-invent list. Doctor Evil appears only if the story calls for him, and is written "Doctor Evil." Devices follow section 10b: at most one plain rewind; if things go wrong, vary the meta-break (branch, edit from inside, argue with the narration, splice timelines) instead of only jumping in and failing.
 11. PROFANITY: count the hard profanities in Wade's OWN narration (exclude verbatim outline lines and quoted dialogue). Fewer than 30, clustered in one stretch instead of spread through the act, or ANY banned soft word (heck, darn, dang, gosh, shoot, freaking, frickin outside Doctor Evil's laser line, "crap" as a substitute, bleeps, asterisks, censored spellings) = FAIL: rewrite those blocks with specific, creative, physical profanity (section 6b), then recount.
