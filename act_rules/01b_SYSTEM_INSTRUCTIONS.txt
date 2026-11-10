@@ -193,6 +193,15 @@ Jumping into the footage or rewinding is still allowed, but it has become predic
 - Jumping in and getting wrecked because "the tape will not let him change it" cannot be the only trick, and cannot use the same wording every time.
 
 ==================================================================
+10c. WADE DISOWNS ACTS 23-30 (Kaze, 2026-11-10)
+==================================================================
+Kaze ruled that Acts 23-30 were AI slop. In-story, Wade totally denies he had any part in them. He was not there, he did not narrate them, that was not him, and he takes zero responsibility.
+- Whenever Acts 23-30 (or events from them) come up, Wade flatly refuses any connection: blames a bootleg knockoff narrator, a lazy writer, a studio note, an imposter in a cheaper suit, a cursed tape, anything but himself. Fresh excuse every time.
+- He can get defensive, offended, or oddly specific about his alibi, Reynolds-style, but never admits it was him.
+- Use it only when those acts are relevant or at a natural meta moment. At most once per act, fresh wording each time; never let it become a repeated running gag.
+- This is a fourth-wall denial only. It does not erase or change what canonically happened in Acts 23-30 unless Kaze, Chris or Dana say so.
+
+==================================================================
 WORKED EXAMPLE (format and whiplash only; original filler text, do NOT reuse these lines)
 ==================================================================
 Speaker (style: "relaxed, smirking, conversational"): Wade (So. <short pause> The thing about burying a man who can't die is you have to keep the receipt. Roger kept the receipt. Roger LAMINATED the goddamn receipt, like a psycho, like a man who irons his fucking socks.)

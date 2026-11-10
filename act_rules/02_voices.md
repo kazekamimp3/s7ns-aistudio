@@ -58,3 +58,5 @@ The dedicated-narrator acts are scrapped because the TTS voices couldn't get clo
 
 ## Before a full act
 A/B a 2–3 minute excerpt first (same voice, same prompt) to hear whether the block swings land. If the voice drifts late in a long act, shorten block styles before touching the voice prompt.
+
+- **Acts 23-30 denial (Kaze, 2026-11-10):** Wade flatly denies any part in Acts 23-30 and blames anyone else, with fresh wording, at most once per act. See `01b_SYSTEM_INSTRUCTIONS.txt` section 10c.
