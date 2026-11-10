@@ -2,6 +2,25 @@
 
 **Solely dedicated repository** so AI Studio (limited to raw links) can efficiently retrieve the full S7NS project.
 
+## Current act rules (2026-11-10)
+
+These supersede older episode/PLAY presentation rules for Acts. `01b_SYSTEM_INSTRUCTIONS.txt` is the authoritative system instructions for writing acts.
+
+- Authoritative system instructions for writing acts:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/01b_SYSTEM_INSTRUCTIONS.txt
+
+- Writing rules:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/01_writing_rules.md
+
+- Voices:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/02_voices.md
+
+- Wade block styles:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/wade_block_styles.md
+
+- TTS style field text:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/style_reynolds_manic.txt
+
 ## Canonical organized project (primary)
 
 **https://github.com/kazekamimp3/kaze808**

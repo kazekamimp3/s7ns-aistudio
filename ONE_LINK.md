@@ -19,7 +19,26 @@ PROPOSED, AUTHOR_SELECTED, PREPARED, DELIVERED_PROVISIONAL, AUTHOR_ACCEPTED, INS
 
 WORK advances zero fictional time. PLAY requires explicit authorization.
 
-## 2. Clean readable core files (use these first)
+## 2. Current act rules (2026-11-10, supersede older episode/PLAY presentation rules for Acts)
+
+These are the current act-narration rules. They supersede older episode/PLAY presentation rules for Acts. `01b_SYSTEM_INSTRUCTIONS.txt` is the authoritative system instructions for writing acts.
+
+- Authoritative system instructions for writing acts:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/01b_SYSTEM_INSTRUCTIONS.txt
+
+- Writing rules:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/01_writing_rules.md
+
+- Voices:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/02_voices.md
+
+- Wade block styles:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/wade_block_styles.md
+
+- TTS style field text:  
+  https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/act_rules/style_reynolds_manic.txt
+
+## 3. Clean readable core files (use these first)
 
 - Author directions:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/AUTHOR_DIRECTIONS.txt
@@ -69,16 +88,16 @@ WORK advances zero fictional time. PLAY requires explicit authorization.
 - Restart handoff:  
   https://raw.githubusercontent.com/kazekamimp3/s7ns-aistudio/main/handoffs/S7NS_RESTART_HANDOFF_20261031.md
 
-## 3. Live state (canonical — check before any PLAY)
+## 4. Live state (canonical — check before any PLAY)
 
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/CURRENT.json
 - https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/DELIVERY_LEDGER.json
 - Full active outline (large): https://raw.githubusercontent.com/kazekamimp3/kaze808/main/continuity/SEASON3_ACTIVE_OUTLINE.json
 
-## 4. Full organized project
+## 5. Full organized project
 
 https://github.com/kazekamimp3/kaze808
 
 Do not load every large bundle by default. Route first, then open the exact complete owner needed.
 
-Start with the clean files in section 2.
+Start with the clean files in section 3.

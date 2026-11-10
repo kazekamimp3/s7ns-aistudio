@@ -1,0 +1,42 @@
+# Wade per-block style palette (paste into each speech block's Style; keep under ~15 words)
+
+Use a NEW speech block every time Wade's mood flips. Same voice (Puck — do not change it), new short style. Bigger contrast between neighboring blocks = more manic, in the Ryan Reynolds Deadpool sense: sardonic, quick, deadpan-to-frantic snaps, mock sincerity, self-aware asides, comedic timing. Not generic screaming.
+
+## Volume (Kaze, 2026-11-10 — cracked-phone listen)
+- Overall loudness stays even and consistent. No blasting.
+- Intensity (anger, panic, hype) is speed, pitch, grit and rhythm, never a loudness spike. Prefer styles like `urgent, rapid, gritty` over `screaming` or `yelling`.
+- Lowered or whispered delivery is a close-mic breathy stage-whisper at near-normal loudness, always clearly audible, never faint. Any style that uses `whisper` / `whispering` / `muttering` MUST also include `clearly audible`.
+- Limit `<scream>` / `<shout>` / `<shriek>` tags and CAPS screaming.
+
+## Palette
+
+| Mood | Block style |
+|---|---|
+| Baseline | relaxed, smirking, conversational |
+| Manic push | urgent, rapid, gritty, manic |
+| Manic ramble | speaking rapidly, giddy, spiraling, barely breathing |
+| Explosion | furious, rapid, gritty, voice cracking |
+| Hurt / pain | whimpering, strained, wounded, speaking slowly |
+| Icy turn | dead calm, flat deadpan, quiet and menacing |
+| Unhinged joy | cackling, delighted, unhinged, speaking rapidly |
+| Fourth-wall aside | muttering to the listener, clearly audible, smirking |
+| Head voices | arguing with himself, bickering, quick back-and-forth |
+| Sing-song taunt | sing-song, taunting, playful |
+| Trailer voice | mock-heroic movie-trailer announcer, gravelly, epic |
+| Baby-voice mockery | sarcastic baby voice, mocking, condescending |
+| Bored in carnage | bored, unimpressed, sighing, flat |
+| Drama queen | fake-wounded, theatrical gasping, dramatic |
+| Fake sincere | soft, sappy, mock-sincere, then snapping sarcastic |
+| Conspiratorial | clearly audible close-mic whisper, giggly, conspiratorial |
+| Breakdown | sobbing dramatically, then instantly flat |
+| Hype | hyped, rapid, gritty, sports-announcer energy |
+
+You may write a new style in the same spirit if it fits the moment better. Never a sudden flamboyant or camp persona. Whispering is ALWAYS a style, never a tag, and never without `clearly audible`.
+
+Core rule: you never know what comes out of his mouth next. Never two blocks in a row with the same mood, never a repeating order. Mix in plain baseline blocks (`relaxed, smirking, conversational`) so the snaps hit harder. Example sequence only, do NOT reuse: urgent-rapid-gritty, then a clearly audible whisper, then baseline, then cackling, then baseline, then icy deadpan. Keep blocks short (150-600 chars) at the flip points.
+Inline helpers that make the flips land: `<cackle>` `<giggle>` `<snicker>` `<growl>` `<whimper>` `<sob>` `<gasp>` `<hiss>` `<short pause>` `<long pause>`, voice-crack via a sudden CAPS word mid-sentence. Use `<scream>` / `<shout>` sparingly, if at all.
+After the Tyson nut combo, every pain block uses: whimpering, strained, wounded, speaking slowly (plus `<hiss>` / `<whimper>`).
+
+Deadpool fidelity: sprinkle his signature expressions throughout every act (fourth-wall asides, head voices, fresh sing-song taunts, trailer voice, baby-voice mockery, bored-in-carnage sighs, drama-queen gasps, giddy oohs at good violence, snorting at his own jokes). These are part of the unpredictability: they can show up anywhere. Never reuse the same signature line within an act; avoid repeating catchphrases across acts. Banned: "Somebody's in trouble, somebody's in trouble," the Failed-take-number-X redo gag, and any sudden flamboyant/camp voice shift.
+
+Devices: jumping into the footage is fine, but a plain rewind-the-tape fix is at most once per act. Prefer a fresh meta-break (edit the memory from inside, argue with the narration, splice or branch a timeline).
