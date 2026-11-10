@@ -14,16 +14,17 @@ Use a NEW speech block every time Wade's mood flips. Same voice (Puck — do not
 |---|---|
 | Baseline | relaxed, smirking, conversational |
 | Manic push | urgent, rapid, gritty, manic |
-| Manic ramble | speaking rapidly, giddy, spiraling, barely breathing |
+| Manic ramble | speaking rapidly, spiraling, barely breathing |
 | Explosion | furious, rapid, gritty, voice cracking |
 | Hurt / pain | whimpering, strained, wounded, speaking slowly |
 | Icy turn | dead calm, flat deadpan, quiet and menacing |
 | Unhinged joy | cackling, delighted, unhinged, speaking rapidly |
 | Fourth-wall aside | muttering to the listener, clearly audible, smirking |
 | Head voices | arguing with himself, bickering, quick back-and-forth |
-| Sing-song taunt | sing-song, taunting, playful |
-| Trailer voice | mock-heroic movie-trailer announcer, gravelly, epic |
-| Baby-voice mockery | sarcastic baby voice, mocking, condescending |
+| Storyteller | dry, smug, conversational, telling a story to a friend |
+| Meta jab | dry, sarcastic, smirking, aside to the listener, clearly audible |
+| Roast | cutting, dry, quick, merciless |
+| Self-roast | wry, self-deprecating, deadpan |
 | Bored in carnage | bored, unimpressed, sighing, flat |
 | Drama queen | fake-wounded, theatrical gasping, dramatic |
 | Fake sincere | soft, sappy, mock-sincere, then snapping sarcastic |
@@ -37,6 +38,6 @@ Core rule: you never know what comes out of his mouth next. Never two blocks in 
 Inline helpers that make the flips land: `<cackle>` `<giggle>` `<snicker>` `<growl>` `<whimper>` `<sob>` `<gasp>` `<hiss>` `<short pause>` `<long pause>`, voice-crack via a sudden CAPS word mid-sentence. `<scream>` / `<shout>` are fine when the moment earns them.
 After the Tyson nut combo, every pain block uses: whimpering, strained, wounded, speaking slowly (plus `<hiss>` / `<whimper>`).
 
-Deadpool fidelity: sprinkle his signature expressions throughout every act (fourth-wall asides, head voices, fresh sing-song taunts, trailer voice, baby-voice mockery, bored-in-carnage sighs, drama-queen gasps, giddy oohs at good violence, snorting at his own jokes). These are part of the unpredictability: they can show up anywhere. Never reuse the same signature line within an act; avoid repeating catchphrases across acts. Banned: "Somebody's in trouble, somebody's in trouble," the Failed-take-number-X redo gag, and any sudden flamboyant/camp voice shift.
+Deadpool fidelity: sprinkle his signature expressions throughout every act (fourth-wall asides, head voices, freeze-frame storytelling, meta jabs at the writers and budget, pop-culture and celebrity jabs, self-roasts, brutal dry roasts, deadpan gore commentary, filthy overshares, undercut sincerity, fourth-wall breaks inside fourth-wall breaks, creative image-heavy swearing, naming the cheesy song scoring the violence, oversharing to the wrong audience, counting kills and losing count, mocking superhero cliches, petty grudges with tallies, showing off gross healing, talking to his weapons, snorting at his own jokes (no giddy oohs, sing-song, baby voice, trailer voice, or drama-queen gasps)). These are part of the unpredictability: they can show up anywhere. Never reuse the same signature line within an act; avoid repeating catchphrases across acts. Banned: "Somebody's in trouble, somebody's in trouble," the Failed-take-number-X redo gag, and any sudden flamboyant/camp voice shift.
 
 Devices: jumping into the footage is fine, but a plain rewind-the-tape fix is at most once per act. Prefer a fresh meta-break (edit the memory from inside, argue with the narration, splice or branch a timeline).
